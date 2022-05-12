@@ -16,6 +16,7 @@ Seja Bem Vindo!
   <img align="center" alt="andre-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="andre-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="andre-CSS" height="30" width="40" src="https://raw.githubusercontent.com/nimasfl/nestjs-icons/325530fd2b05f354d44ce5cf94c056dde019a8fe/file_type_nestjs.svg"> 
 </div>
 
   ##
